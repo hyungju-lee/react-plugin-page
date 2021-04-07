@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-plugin-page/static/css/main.96b0de31.chunk.css",
-    "main.js": "/react-plugin-page/static/js/main.206ce452.chunk.js",
-    "main.js.map": "/react-plugin-page/static/js/main.206ce452.chunk.js.map",
-    "runtime-main.js": "/react-plugin-page/static/js/runtime-main.9a09f505.js",
-    "runtime-main.js.map": "/react-plugin-page/static/js/runtime-main.9a09f505.js.map",
-    "static/js/2.d0613a9c.chunk.js": "/react-plugin-page/static/js/2.d0613a9c.chunk.js",
-    "static/js/2.d0613a9c.chunk.js.map": "/react-plugin-page/static/js/2.d0613a9c.chunk.js.map",
+    "main.css": "/react-plugin-page/static/css/main.a1b0d23c.chunk.css",
+    "main.js": "/react-plugin-page/static/js/main.34cdaead.chunk.js",
+    "main.js.map": "/react-plugin-page/static/js/main.34cdaead.chunk.js.map",
+    "runtime-main.js": "/react-plugin-page/static/js/runtime-main.c518a6b8.js",
+    "runtime-main.js.map": "/react-plugin-page/static/js/runtime-main.c518a6b8.js.map",
+    "static/js/2.c0e9ef8c.chunk.js": "/react-plugin-page/static/js/2.c0e9ef8c.chunk.js",
+    "static/js/2.c0e9ef8c.chunk.js.map": "/react-plugin-page/static/js/2.c0e9ef8c.chunk.js.map",
     "static/css/3.116a9d0d.chunk.css": "/react-plugin-page/static/css/3.116a9d0d.chunk.css",
     "static/js/3.5ee249a2.chunk.js": "/react-plugin-page/static/js/3.5ee249a2.chunk.js",
     "static/js/3.5ee249a2.chunk.js.map": "/react-plugin-page/static/js/3.5ee249a2.chunk.js.map",
     "static/css/4.b432ac89.chunk.css": "/react-plugin-page/static/css/4.b432ac89.chunk.css",
-    "static/js/4.e8949232.chunk.js": "/react-plugin-page/static/js/4.e8949232.chunk.js",
-    "static/js/4.e8949232.chunk.js.map": "/react-plugin-page/static/js/4.e8949232.chunk.js.map",
+    "static/js/4.be1a8f2e.chunk.js": "/react-plugin-page/static/js/4.be1a8f2e.chunk.js",
+    "static/js/4.be1a8f2e.chunk.js.map": "/react-plugin-page/static/js/4.be1a8f2e.chunk.js.map",
     "static/js/5.f0291491.chunk.js": "/react-plugin-page/static/js/5.f0291491.chunk.js",
     "static/js/5.f0291491.chunk.js.map": "/react-plugin-page/static/js/5.f0291491.chunk.js.map",
     "index.html": "/react-plugin-page/index.html",
@@ -20,14 +20,14 @@
     "service-worker.js.map": "/react-plugin-page/service-worker.js.map",
     "static/css/3.116a9d0d.chunk.css.map": "/react-plugin-page/static/css/3.116a9d0d.chunk.css.map",
     "static/css/4.b432ac89.chunk.css.map": "/react-plugin-page/static/css/4.b432ac89.chunk.css.map",
-    "static/css/main.96b0de31.chunk.css.map": "/react-plugin-page/static/css/main.96b0de31.chunk.css.map",
-    "static/js/2.d0613a9c.chunk.js.LICENSE.txt": "/react-plugin-page/static/js/2.d0613a9c.chunk.js.LICENSE.txt",
+    "static/css/main.a1b0d23c.chunk.css.map": "/react-plugin-page/static/css/main.a1b0d23c.chunk.css.map",
+    "static/js/2.c0e9ef8c.chunk.js.LICENSE.txt": "/react-plugin-page/static/js/2.c0e9ef8c.chunk.js.LICENSE.txt",
     "static/js/3.5ee249a2.chunk.js.LICENSE.txt": "/react-plugin-page/static/js/3.5ee249a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a09f505.js",
-    "static/js/2.d0613a9c.chunk.js",
-    "static/css/main.96b0de31.chunk.css",
-    "static/js/main.206ce452.chunk.js"
+    "static/js/runtime-main.c518a6b8.js",
+    "static/js/2.c0e9ef8c.chunk.js",
+    "static/css/main.a1b0d23c.chunk.css",
+    "static/js/main.34cdaead.chunk.js"
   ]
 }
